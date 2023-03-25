@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28733743796",
+    "project_id": "checkbook-7ab6e",
+    "storage_bucket": "checkbook-7ab6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28733743796:android:257d9a15c11243de686de1",
+        "android_client_info": {
+          "package_name": "com.example.checkbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28733743796-s6k3rrnbokutmbhitcvqbpdbi0eerdcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5RvNG76Zvcts4L61f3qYFzxYcvlDtUKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28733743796-s6k3rrnbokutmbhitcvqbpdbi0eerdcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

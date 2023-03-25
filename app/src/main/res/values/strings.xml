@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Checkbook</string>
+    <string name="create_account">create account</string>
+    <string name="back">Back</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="name">Name</string>
+    <string name="login">LOGIN</string>
+    <string name="do_not_have_an_account">Do not have an account?</string>
+    <string name="register">Register</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="sign_out">Sign out</string>
+</resources>
